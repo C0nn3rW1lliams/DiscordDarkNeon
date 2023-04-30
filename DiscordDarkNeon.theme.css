@@ -28,7 +28,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image:(https://media.discordapp.net/attachments/1090240070201638925/1102122154507632680/Screenshot_2023-04-30_at_11.51.46_AM.png); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image:(https://imgur.com/a/yQu84s6); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */

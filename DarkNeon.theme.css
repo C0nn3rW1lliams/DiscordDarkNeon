@@ -27,7 +27,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
